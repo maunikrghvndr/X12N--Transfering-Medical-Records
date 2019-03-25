@@ -1,0 +1,12 @@
+E:\FTP\K-Pharmacy\Source-Code\X12N\X12N\bin\Release\X12N.exe.config
+E:\FTP\K-Pharmacy\Source-Code\X12N\X12N\bin\Release\X12N.exe
+E:\FTP\K-Pharmacy\Source-Code\X12N\X12N\bin\Release\X12N.pdb
+E:\FTP\K-Pharmacy\Source-Code\X12N\X12N\obj\Release\X12N.csprojResolveAssemblyReference.cache
+E:\FTP\K-Pharmacy\Source-Code\X12N\X12N\obj\Release\X12N.exe
+E:\FTP\K-Pharmacy\Source-Code\X12N\X12N\obj\Release\X12N.pdb
+\\Risarcweb02\ftp\K-Pharmacy\Source-Code\X12N\X12N\bin\Release\X12N.exe.config
+\\Risarcweb02\ftp\K-Pharmacy\Source-Code\X12N\X12N\obj\Release\X12N.exe
+\\Risarcweb02\ftp\K-Pharmacy\Source-Code\X12N\X12N\obj\Release\X12N.pdb
+C:\Users\Raghavendra\Documents\GitHub\X12N--Transfering-Medical-Records\X12N\bin\Release\X12N.exe.config
+C:\Users\Raghavendra\Documents\GitHub\X12N--Transfering-Medical-Records\X12N\obj\Release\X12N.exe
+C:\Users\Raghavendra\Documents\GitHub\X12N--Transfering-Medical-Records\X12N\obj\Release\X12N.pdb

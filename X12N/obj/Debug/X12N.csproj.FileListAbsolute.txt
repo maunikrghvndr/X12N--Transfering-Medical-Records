@@ -1,0 +1,6 @@
+E:\FTP\K-Pharmacy\Source-Code\X12N\X12N\bin\Debug\X12N.exe.config
+E:\FTP\K-Pharmacy\Source-Code\X12N\X12N\obj\Debug\X12N.csprojResolveAssemblyReference.cache
+E:\FTP\K-Pharmacy\Source-Code\X12N\X12N\bin\Debug\X12N.exe
+E:\FTP\K-Pharmacy\Source-Code\X12N\X12N\bin\Debug\X12N.pdb
+E:\FTP\K-Pharmacy\Source-Code\X12N\X12N\obj\Debug\X12N.exe
+E:\FTP\K-Pharmacy\Source-Code\X12N\X12N\obj\Debug\X12N.pdb
